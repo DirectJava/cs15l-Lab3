@@ -1,6 +1,7 @@
 Command Chosen: `grep`
 
 Example 1: `-l`
+
 1.1 - `./technical/911report`
 ![image](https://github.com/DirectJava/cs15l-Lab3/assets/122843554/be5361f8-f4b3-41f1-bb4f-895992978d29)
 
@@ -20,6 +21,7 @@ Example 3: `-v`
 ![image](https://github.com/DirectJava/cs15l-Lab3/assets/122843554/105f3084-e2f7-45da-a0e5-3f036fc85b03)
 
 *This picture shows the output after typing out `grep -v experience chapter-1.txt`
+
 3.2 - `./technical/biomed`
 ![image](https://github.com/DirectJava/cs15l-Lab3/assets/122843554/add6487a-f31a-4dc9-b55e-b73446d00088)
 
