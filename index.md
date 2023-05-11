@@ -24,6 +24,8 @@ Example 3: `-v`
 ![image](https://github.com/DirectJava/cs15l-Lab3/assets/122843554/add6487a-f31a-4dc9-b55e-b73446d00088)
 
 *This picture shows the output after typing out `grep -v except 1471-2148-2-8.txt`
+
+
 Example 4: `-o`
 
 4.1 - `./technical/911report`
