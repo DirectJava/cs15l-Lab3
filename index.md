@@ -14,6 +14,8 @@ Example 2: `TBD`
 2.2 - `./technical/biomed`
 
 Example 3: `-v`
+
+
 3.1 - `./technical/911report`
 ![image](https://github.com/DirectJava/cs15l-Lab3/assets/122843554/105f3084-e2f7-45da-a0e5-3f036fc85b03)
 
@@ -23,6 +25,7 @@ Example 3: `-v`
 
 *This picture shows the output after typing out `grep -v except 1471-2148-2-8.txt`
 Example 4: `-o`
+
 4.1 - `./technical/911report`
 ![image](https://github.com/DirectJava/cs15l-Lab3/assets/122843554/3977b273-8710-4b35-9635-9e61d3389409)
 
