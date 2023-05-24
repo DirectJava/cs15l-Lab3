@@ -14,11 +14,13 @@ This command line chooses the text file name that has the keyword `<character or
 
 Example 2: `c` 
 
-`-c` only prints the number of lines that match a particular string in the argument.
+`-c` only prints the number of lines that matches a particular string in the argument.
 
 2.1 - `./technical/911report`
+![image](https://github.com/DirectJava/cs15l-Lab3/assets/122843554/94796247-e2f4-408d-9176-e38478ccf8d0)
 
 2.2 - `./technical/biomed`
+![image](https://github.com/DirectJava/cs15l-Lab3/assets/122843554/bdc07376-4b36-4e9d-bcde-e13175604a4e)
 
 Example 3: `-v`
 
