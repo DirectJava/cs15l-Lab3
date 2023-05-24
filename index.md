@@ -1,6 +1,10 @@
 Command Chosen: `grep`
 
+Source: `man grep` in java
+
 Example 1: `-l`
+
+This command line chooses the text file name that has the keyword `<character or word>` and returns one or more options.
 
 1.1 - `./technical/911report`
 ![image](https://github.com/DirectJava/cs15l-Lab3/assets/122843554/be5361f8-f4b3-41f1-bb4f-895992978d29)
@@ -29,6 +33,8 @@ Example 3: `-v`
 
 
 Example 4: `-o`
+
+This command prints out the given word in the argument as many times as java finds in that particular file.
 
 4.1 - `./technical/911report`
 ![image](https://github.com/DirectJava/cs15l-Lab3/assets/122843554/3977b273-8710-4b35-9635-9e61d3389409)
