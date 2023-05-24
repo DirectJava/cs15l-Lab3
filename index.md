@@ -12,7 +12,9 @@ This command line chooses the text file name that has the keyword `<character or
 1.2 - `./technical/biomed`
 ![image](https://github.com/DirectJava/cs15l-Lab3/assets/122843554/25085be4-630b-4dbd-b5b6-c261f9869cb5)
 
-Example 2: `TBD`
+Example 2: `c` 
+
+`-c` only prints the number of lines that match a particular string in the argument.
 
 2.1 - `./technical/911report`
 
@@ -20,6 +22,7 @@ Example 2: `TBD`
 
 Example 3: `-v`
 
+The `-v` command only returns lines in a file that don't have the specific word in the argument.
 
 3.1 - `./technical/911report`
 ![image](https://github.com/DirectJava/cs15l-Lab3/assets/122843554/105f3084-e2f7-45da-a0e5-3f036fc85b03)
